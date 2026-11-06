@@ -1,0 +1,22 @@
+# Game code and instances live in the Roblox cloud experience (edited via Studio MCP).
+# This repo is for planning artifacts only, so keep Studio/Rojo exports out.
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+*.rbxl.lock
+*.rbxlx.lock
+default.project.json
+*.project.json
+sourcemap.json
+/src/
+/out/
+/Packages/
+/ServerPackages/
+/DevPackages/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
