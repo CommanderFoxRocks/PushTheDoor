@@ -1,0 +1,16 @@
+# Game code lives in the Roblox cloud experience, not Git.
+# Keep local Studio / Rojo exports out of this planning repo.
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+*.rbxl.lock
+*.rbxlx.lock
+default.project.json
+*.project.json
+sourcemap.json
+src/
+out/
+Packages/
+DevPackages/
+wally.lock
